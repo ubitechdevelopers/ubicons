@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:ubicons/icons/zondicons.dart';
 import 'package:ubicons/ubicons.dart';
-// import 'package:ubi_iconify/icons/zondicons.dart';
-// import 'package:ubi_iconify/ubi_iconify.dart';
+
 
 void main() {
   runApp(const MyApp());

@@ -1,6 +1,6 @@
 name: ubicons
-description: "New Ubicons"
-version: 0.0.1
+description: "Ubicons is a package for Flutter developers that provides a collection of attractive icons from different packs. Developers can use this package to quickly and easily find and add icons to their apps."
+version: 0.0.2
 repository: https://github.com/ubitechdevelopers/ubicons.git
 
 environment:
