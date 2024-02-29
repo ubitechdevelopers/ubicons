@@ -1,11 +1,8 @@
-<!--
-Ubicons is a package for Flutter developers that provides a collection of attractive icons from different packs. 
-Developers can use this package to quickly and easily find and add icons to their apps. Ubicons gives developers access 
-to a variety of design elements that can make their apps look more appealing and modern. Developers can also choose from 
+Ubicons is a package for Flutter developers that provides a collection of attractive icons from different packs.
+Developers can use this package to quickly and easily find and add icons to their apps. Ubicons gives developers access
+to a variety of design elements that can make their apps look more appealing and modern. Developers can also choose from
 many popular icon packs to suit their preferences and needs.
--->
 
-TODO: Put a short description of the package here that helps potential users know whether this package might be useful for them.
 ## Import the library.
 
 Add the latest version of package to your pubspec.yaml (and run 'dart pub get') yaml dependencies: ubicons: ^0.0.1
