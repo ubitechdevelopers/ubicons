@@ -224,14 +224,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.0"
-  sunicons:
-    dependency: "direct main"
-    description:
-      name: sunicons
-      sha256: fb3620f2d38288d965576d97d5d161ccc7cd3152e7558cce68016b25e00bdfbe
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.0.3"
   term_glyph:
     dependency: transitive
     description:

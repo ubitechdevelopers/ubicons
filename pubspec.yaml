@@ -1,7 +1,7 @@
 name: ubicons
-description: "A new Flutter package project."
+description: "New Ubicons"
 version: 0.0.1
-homepage:
+repository: https://github.com/ubitechdevelopers/ubicons.git
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
