@@ -5,7 +5,7 @@ many popular icon packs to suit their preferences and needs.
 
 ## Import the library.
 
-Add the latest version of package to your pubspec.yaml (and run 'dart pub get') yaml dependencies: ubicons: ^0.0.2
+Add the latest version of package to your pubspec.yaml (and run 'dart pub get') yaml dependencies: ubicons: ^0.0.3
 
 Import the package and use it in your Flutter app. import 'package:ubicons/ubicons.dart';
 
