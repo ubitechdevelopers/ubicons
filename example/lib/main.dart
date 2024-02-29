@@ -51,7 +51,12 @@ class _MyHomePageState extends State<MyHomePage> {
             );
           }),
       appBar: AppBar(
+        backgroundColor: Colors.teal,
         title: Text(widget.title),
+        actions: [
+          IconButton(onPressed: (){},
+              icon:  const Ubicons(Zondicons.artist))
+        ],
       ),
     );
   }
