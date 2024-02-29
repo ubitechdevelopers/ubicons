@@ -104,9 +104,12 @@ class _MyHomePageState extends State<MyHomePage> {
 
 Import the package in your Flutter file and use Icon to get the actual icon widget:
 
+```dart
 import 'package:ubicons/icons/zondicons.dart';
+```
+```dart
 import 'package:ubicons/ubicons.dart';
-
+```
 
 ```dart
 const like =  Ubicons(Zondicons.artist);
